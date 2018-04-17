@@ -24,6 +24,8 @@ brew install caskroom/cask/brew-cask
 
 # brew cask search 对于不是很确定要找的App的精确的名字，可以通过这个命令来检查
 # brew cask uninstall xx 卸载软件 
+# brew update 更新所有软件
+# 更新具体软件：brew upgrade 软件名 ，例：brew upgrade git
 # brew cask list 列出通过 Homebrew Cask 安装的包
 ########################################################
 
